@@ -1,0 +1,2 @@
+# ZindiTextClassifier
+The challenge of this competition will be to create a classifier that labels text content by the 27 SDG 3 indicators that are most “relevant.” The training data for this challenge includes approximately 3,000 web-scraped text from tenders, programs, and documents, as well as news articles about international development and humanitarian aid, and finally text descriptions of organizations involved in those sectors.
